@@ -9,3 +9,9 @@ So if a minion draws "3", their ID number will be "71113".
 
 Help the Commander assign these IDs by writing a function answer(n) which takes in the starting index n of Lambda's string of all primes, and returns the next five digits in the string.
 Commander Lambda has a lot of minions, so the value of n will always be between 0 and 10000.
+
+
+Test cases
+
+Inputs: (int) n = 0 Output: (string) "23571"
+Inputs: (int) n = 3 Output: (string) "71113"
